@@ -1,0 +1,7 @@
+\\Mac\Home\Documents\CONESTOGA\MSD\second term\PROG8170 - Software Quality Assurance - Baljeet\assessments\assignment 2\sqaassignment2\assignment2\bin\Debug\assignment2.exe.config
+\\Mac\Home\Documents\CONESTOGA\MSD\second term\PROG8170 - Software Quality Assurance - Baljeet\assessments\assignment 2\sqaassignment2\assignment2\bin\Debug\assignment2.exe
+\\Mac\Home\Documents\CONESTOGA\MSD\second term\PROG8170 - Software Quality Assurance - Baljeet\assessments\assignment 2\sqaassignment2\assignment2\bin\Debug\assignment2.pdb
+\\Mac\Home\Documents\CONESTOGA\MSD\second term\PROG8170 - Software Quality Assurance - Baljeet\assessments\assignment 2\sqaassignment2\assignment2\obj\Debug\assignment2.csprojAssemblyReference.cache
+\\Mac\Home\Documents\CONESTOGA\MSD\second term\PROG8170 - Software Quality Assurance - Baljeet\assessments\assignment 2\sqaassignment2\assignment2\obj\Debug\assignment2.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\CONESTOGA\MSD\second term\PROG8170 - Software Quality Assurance - Baljeet\assessments\assignment 2\sqaassignment2\assignment2\obj\Debug\assignment2.exe
+\\Mac\Home\Documents\CONESTOGA\MSD\second term\PROG8170 - Software Quality Assurance - Baljeet\assessments\assignment 2\sqaassignment2\assignment2\obj\Debug\assignment2.pdb
