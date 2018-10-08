@@ -13,7 +13,6 @@ namespace assignment2
             Program p = new Program();
             p.Go();
         }
-
         public void Go()
         {
             try
@@ -22,7 +21,6 @@ namespace assignment2
                 int menuOption = 0;
                 do
                 {
-                    // receive the user option
                     do
                     {
                         Console.Clear();
@@ -33,7 +31,6 @@ namespace assignment2
                         Console.Write("Please, choose an option: ");
                     } while (!int.TryParse(Console.ReadLine(), out menuOption) || menuOption < -1);
 
-                    // act based on the user option
                     switch (menuOption)
                     {
                         case 1:

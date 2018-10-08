@@ -15,7 +15,6 @@ namespace assignment2
             {
                 return "NotATriangle";
             }
-
             // check if it is equilateral or isosceles
             // considering the 3 variations
             if (a == b)
@@ -26,7 +25,6 @@ namespace assignment2
                 }
                 return "isosceles";
             }
-
             if (a == c)
             {
                 if (a == b)
@@ -35,7 +33,6 @@ namespace assignment2
                 }
                 return "isosceles";
             }
-
             if (b == c)
             {
                 if (b == a)
@@ -44,7 +41,6 @@ namespace assignment2
                 }
                 return "isosceles";
             }
-
             // if none of above, it's scalene
             return "scalene";
         }
