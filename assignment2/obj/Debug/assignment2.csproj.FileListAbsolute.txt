@@ -5,3 +5,7 @@
 \\Mac\Home\Documents\CONESTOGA\MSD\second term\PROG8170 - Software Quality Assurance - Baljeet\assessments\assignment 2\sqaassignment2\assignment2\obj\Debug\assignment2.csproj.CoreCompileInputs.cache
 \\Mac\Home\Documents\CONESTOGA\MSD\second term\PROG8170 - Software Quality Assurance - Baljeet\assessments\assignment 2\sqaassignment2\assignment2\obj\Debug\assignment2.exe
 \\Mac\Home\Documents\CONESTOGA\MSD\second term\PROG8170 - Software Quality Assurance - Baljeet\assessments\assignment 2\sqaassignment2\assignment2\obj\Debug\assignment2.pdb
+\\Mac\Home\Documents\CONESTOGA\MSD\second term\PROG8170 - Software Quality Assurance - Baljeet\assessments\assignment 2\sqaassignment2\assignment2\bin\Debug\nunit.framework.dll
+\\Mac\Home\Documents\CONESTOGA\MSD\second term\PROG8170 - Software Quality Assurance - Baljeet\assessments\assignment 2\sqaassignment2\assignment2\bin\Debug\nunit.framework.pdb
+\\Mac\Home\Documents\CONESTOGA\MSD\second term\PROG8170 - Software Quality Assurance - Baljeet\assessments\assignment 2\sqaassignment2\assignment2\bin\Debug\nunit.framework.xml
+\\Mac\Home\Documents\CONESTOGA\MSD\second term\PROG8170 - Software Quality Assurance - Baljeet\assessments\assignment 2\sqaassignment2\assignment2\obj\Debug\assignment2.csproj.CopyComplete
